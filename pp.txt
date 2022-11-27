@@ -1,2 +1,1 @@
 hi gitpractice
-If I create a new text file and before committing if I check git diff it will not show the new file as it is not present in local repository.
